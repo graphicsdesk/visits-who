@@ -5,11 +5,15 @@ import datetime
 EVENTS_URLS = {
     'brown': 'https://apply.college.brown.edu/portal/brown-near-you?c=&country=',
     'columbia': 'https://apply.college.columbia.edu/portal/register?c=&country=',
+    'mit': 'https://mitadmissions.org/visit/mit-visits-you/fall-travel',
     'princeton': 'https://apply.princeton.edu/portal/upcoming_events?c=&country=',
     'stanford': 'https://apply.stanford.edu/portal/stanfordinyourarea?c=&country=',
     'uchicago': 'https://prospects.uchicago.edu/register/?c=&country=',
-    'yale': 'https://apps.admissions.yale.edu/portal/events?c=&country=',
     'upenn': 'https://key.admissions.upenn.edu/portal/penn-in-your-town?c=&country=',
+    'yale': 'https://apps.admissions.yale.edu/portal/events?c=&country=',
+
+    # 'cornell': 'https://admissions.cornell.edu/visit/cornell-your-hometown',
+    # As of 5/12, Cornell's page only has EEE events. It's complicated to scrape.
 
     # 'harvard': 'https://college.harvard.edu/admissions/choosing-harvard/meet-us-your-hometown',
     # As of 5/12, Harvard's page only has ECO events. It's complicated to scrape.
