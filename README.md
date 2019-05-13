@@ -1,3 +1,7 @@
+## TODOs
+
+- [ ] Gather data on peer programs to ECO/EEE?
+
 ## Useful links
 
 * [CVY portal](https://apply.college.columbia.edu/portal/register?c=&country=)
