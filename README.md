@@ -1,4 +1,4 @@
-**How diverse are the graduate student and postdoctorate populations in science and engineering?**
+**Where does Columbia Visits You visit?**
 
 ## Setup
 
