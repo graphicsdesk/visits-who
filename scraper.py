@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
-import requests
 import datetime
+import os
+import requests
 
 EVENTS_URLS = {
     'brown': 'https://apply.college.brown.edu/portal/brown-near-you?c=&country=',
@@ -27,8 +28,11 @@ EVENTS_URLS = {
     'eco': 'http://www.exploringcollegeoptions.org/',
 }
 
-def now():
-    return datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+def now(hours=True):
+    f_string = '%Y-%m-%d'
+    if hours:
+        f_string += 'T%H:%M:%S'
+    return datetime.datetime.now().strftime(f_string)
 
 def download_page(page_name):
     r = requests.get(EVENTS_URLS[page_name])
@@ -38,4 +42,7 @@ def download_page(page_name):
         f.write(r.content)
 
 for page in EVENTS_URLS.keys():
-    download_page(page)
+    date = now(hours=False)
+    if all(date not in fname for fname in os.listdir(f'./documents/{page}')):
+        # Documents not yet scraped for today
+        download_page(page)
