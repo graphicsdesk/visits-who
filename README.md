@@ -18,8 +18,5 @@ You can use Linux's built-in task scheduler [Cron](http://man7.org/linux/man-pag
 
 ## TODOs
 
-- [ ] Gather data on peer programs to ECO/EEE?
-
-## Useful links
-
-* [CVY portal](https://apply.college.columbia.edu/portal/register?c=&country=)
+- [ ] Research peer programs to ECO/EEE, decide whether to include them in this analysis
+- [ ] Sync documents to S3 from local machine
