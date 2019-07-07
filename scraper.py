@@ -12,20 +12,21 @@ EVENTS_URLS = {
     'uchicago': 'https://prospects.uchicago.edu/register/?c=&country=',
     'upenn': 'https://key.admissions.upenn.edu/portal/penn-in-your-town?c=&country=',
     'yale': 'https://apps.admissions.yale.edu/portal/events?c=&country=',
+    
+    'eco': 'http://www.exploringcollegeoptions.org/',
 
     # 'cornell': 'https://admissions.cornell.edu/visit/cornell-your-hometown',
-    # As of 5/12, Cornell's page only has EEE events. It's complicated to scrape.
+    # As of 7/7, Cornell's page only has EEE events. It's complicated to scrape.
 
     # 'harvard': 'https://college.harvard.edu/admissions/choosing-harvard/meet-us-your-hometown',
     # As of 5/12, Harvard's page only has ECO events. It's complicated to scrape.
+    # 7/7: Harvard's page has no events.
 
     # 'dartmouth': '',
-    # As of 5/12, the Dartmouth Visits You page has nothing
+    # As of 7/7, the Dartmouth Visits You page has nothing
 
     # 'eee': 'http://exploringeducationalexcellence.org/events_only.php',
-    # Got a 406, manually curl'd 5/12 entry
-
-    'eco': 'http://www.exploringcollegeoptions.org/',
+    # Got a 406, manually curl'd 5/12, 7/7 entries
 }
 
 def now(hours=True):
