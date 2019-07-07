@@ -1,0 +1,422 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Exploring Educational Excellence</title>
+
+
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/nav.css" rel="stylesheet" type="text/css">
+
+
+
+</head>
+
+<body>
+	<div id="page-wrap" class="group">
+
+        <header>
+        
+
+<table width="1020" align="center">
+  <tr>
+    <td><div align="center">
+      <table width="1000" align="center">
+        <tr>
+          <td width="25%" rowspan="2"><img src="images/eee_logo.png"  alt="" width="263" height="102" id="logo"/></td>
+          <td width="15%"><div align="center"><a href="http://www.brown.edu/admission" target="_blank"><img src="images/brown.png" width="54" height="90"  alt="Brown University"/></a></div></td>
+		<td width="15%"><div align="center"><a href="http://undergrad.admissions.columbia.edu/" target="_blank"><img src="images/columbia.png" width="93" height="86"  alt="Columbia University"/></a></div></td>	
+		
+          <td width="15%"><div align="center"><a href="http://admissions.cornell.edu" target="_blank"><img src="images/cornell.png" width="79" height="79"  alt="Cornell University"/></a></div></td>
+          <td width="15%"><div align="center"><a href="http://futureowls.rice.edu/home.aspx" target="_blank"><img src="images/rice.png" width="69" height="82"  alt="Rice University"/></a></div></td>
+          <td width="15%"><div align="center"><a href="https://collegeadmissions.uchicago.edu/" target="_blank"><img src="images/chicago.png" width="66" height="84"  alt="University of Chicago"/></a></div></td>
+        </tr>
+        <tr>
+          <td valign="top"><div align="center" class="header_titles">Brown University</div></td>
+          <td valign="top"><div align="center" class="header_titles">Columbia University</div></td>
+          <td valign="top"><div align="center" class="header_titles">Cornell University</div></td>
+          <td valign="top"><div align="center" class="header_titles">Rice University</div></td>
+          <td valign="top"><div align="center" class="header_titles">University of Chicago</div></td>
+        </tr>
+      </table>
+    </div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><table width="950" align="center" id="navbar">
+      <tr>
+        <td><nav>
+          <div align="center">
+                <ul id="menu-bar">
+    <li class="active"><a href="index.php">HOME</a></li>
+    <li><a href="about_us.php">ABOUT US</a></li>
+    <li><a href="calendar_student.php">STUDENT EVENTS</a>    </li>
+    <li><a href="calendar_counselor.php">COUNSELOR EVENTS</a></li>
+    <li><a href="faq.php">FAQ</a></li>
+    <li><a href="contact.php">CONTACT US</a></li>
+    </ul>
+        
+          </div>
+        </nav></td>
+        </tr>
+    </table></td>
+  </tr>
+</table>        </header>
+
+ 		<div id="main-content1">
+       	  <h1>List of All Events</h1>
+            
+<p><strong>Click on the link next to the event you wish to attend for more information and registration.</strong></p>
+<hr>
+<p><strong>Alabama</strong></p>
+<p>No events listed</p>
+<hr>
+
+<p><strong>Alaska</strong></p>
+<p>No events listed</p>
+<hr>
+<p><strong>Arizona</strong></p>
+<p>No events listed</p>
+<hr>
+<p><strong>Arkansas</strong></p>
+<p>No events listed</p>
+<hr>
+<p><strong>California</strong></p>
+<p>Student Event<br>
+Los Angeles, CA (Downtown) - April 28, 2019 @ 2:00pm<br>
+<a href="event_detail.php?id=475">Click here to Register</a></p>
+<hr>
+
+<p>Student Event<br>
+Pasadena, CA - April 28, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=478">Click here to Register</a></p>
+<hr>
+
+<p>Student Event<br>
+Irvine, CA - April 29, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=481">Click here to Register</a></p>
+<hr>
+
+<p>Student Event<br>
+San Diego, CA - April 30, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=484">Click here to Register</a></p>
+<hr>
+
+<p>Student Event<br>
+Berkeley, CA - May 1, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=487">Click here to Register</a></p>
+<hr>
+
+<p>Student Event<br>
+San Jose, CA - May 2, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=490">Click here to Register</a></p>
+<hr>
+<p><strong>Colorado</strong></p>
+<p>No events listed</p>
+<hr>
+
+<p><strong>Connecticut</strong></p>
+<p>No events listed</p>
+<hr>
+
+<p><strong>Delaware</strong></p>
+<p>Student Event<br>
+Wilmington, DE - June 5, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=506">Click here to Register</a></p>
+<hr>
+
+<p><strong>District of Columbia</strong></p>
+<p>Student Event<br>
+Wshington, DC - May 21, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=495">Click here to Register</a></p>
+<hr>
+			
+<p><strong>Florida</strong></p>
+<p>Student Event<br>
+Tampa, FL - April 29, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=483">Click here to Register</a></p>
+<hr>
+
+<p>Student Event<br>
+Orlando, FL - April 30, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=485">Click here to Register</a></p>
+<hr>
+
+<p>Student Event<br>
+Ft. Lauderdale, FL - May 1, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=488">Click here to Register</a></p>
+<hr>
+
+<p>Student Event<br>
+Miami, FL - May 2, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=492">Click here to Register</a></p>
+<hr>
+
+			
+<p><strong>Georgia</strong></p>
+<p>Student Event<br>
+Atlanta, GA - April 28, 2019 @ 2:00pm<br>
+<a href="event_detail.php?id=477">Click here to Register</a></p>
+<hr>
+
+<p>Student Event<br>
+Atlanta, GA - April 28, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=480">Click here to Register</a></p>
+<hr>
+
+<p><strong>Hawaii</strong></p>
+<p>No events listed</p>
+<hr>
+<p><strong>Idaho</strong></p>
+<p>No events listed</p>
+<hr>
+			
+<p><strong>Illinois</strong></p>
+<p>Student Event<br>
+Chicago, IL - June 2, 2019 @ 2:00pm<br>
+<a href="event_detail.php?id=499">Click here to Register</a></p>
+<hr>
+
+<p>Student Event<br>
+Chicago, IL - June 2, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=501">Click here to Register</a></p>
+<hr>
+<p><strong>Indiana</strong></p>
+<p>Student Event<br>
+Indianapolis, IN - June 5, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=507">Click here to Register</a></p>
+<hr>
+<p><strong>Iowa</strong></p>
+<p>No events listed</p>
+<hr>
+<p><strong>Kansas</strong></p>
+<p>No events listed</p>
+<hr>
+<p><strong>Kentucky</strong></p>
+<p>No events listed</p>
+<hr>
+
+
+<p><strong>Louisiana</strong></p>
+<p>No events listed</p>
+<hr>
+
+<p><strong>Maine</strong></p>
+<p>No events listed</p>
+<hr>
+			
+<p><strong>Maryland</strong></p>
+<p>Student Event<br>
+Baltimore, MD - May 19, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=493">Click here to Register</a></p>
+<hr>
+
+<p>Student Event<br>
+Montgomery County, MD - May 20, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=494">Click here to Register</a></p>
+<hr>
+			
+<p><strong>Massachusetts</strong></p>
+<p>No events listed</p>
+<hr>
+
+<p><strong>Michigan</strong></p>
+<p>Student Event<br>
+Detroit, MI - June 6, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=508">Click here to Register</a></p>
+<hr>
+			
+<p><strong>Minnesota</strong></p>
+<p>Student Event<br>
+Minneapolis, MN - June 3, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=502">Click here to Register</a></p>
+<hr>
+			
+<p><strong>Mississippi</strong></p>
+<p>No events listed</p>
+<hr>
+			
+<p><strong>Missouri</strong></p>
+<p>Student Event<br>
+St. Louis, MO - June 4, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=505">Click here to Register</a></p>
+<hr>
+
+<p><strong>Montana</strong></p>
+<p>No events listed</p>
+<hr>
+			
+<p><strong>Nebraska</strong></p>
+<p>No events listed</p>
+<hr>
+<p><strong>Nevada</strong></p>
+<p>No events listed</p>
+<hr>
+			
+<p><strong>New Hampshire</strong></p>
+<p>No events listed</p>
+<hr>
+<p><strong>New Jersey</strong></p>
+<p>Student Event<br>
+Plainsboro, NJ - June 4, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=504">Click here to Register</a></p>
+<hr>
+			
+<p><strong>New Mexico</strong></p>
+<p>No events listed</p>
+<hr>
+
+<p><strong>New York</strong></p>
+<p>Student Event<br>
+New York City, NY - June 2, 2019 @ 2:00pm<br>
+<a href="event_detail.php?id=498">Click here to Register</a></p>
+<hr>
+
+<p>Student Event<br>
+White Plains, NY - June 2, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=500">Click here to Register</a></p>
+<hr>
+
+<p>Student Event<br>
+Long Island, NY - June 3, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=503">Click here to Register</a></p>
+<hr>			
+			
+<p><strong>North Carolina</strong></p>
+<p>No events listed</p>
+<hr>
+
+<p><strong>North Dakota</strong></p>
+<p>No events listed</p>
+<hr>
+<p><strong>Ohio</strong></p>
+<p>No events listed</p>
+<hr>
+			
+<p><strong>Oklahoma</strong></p>
+<p>No events listed</p>
+<hr>
+			
+<p><strong>Oregon</strong></p>
+<p>No events listed</p>
+<hr>
+<p><strong>Pennsylvania</strong></p>
+<p>Student Event<br>
+Vally Forge, PA - June 6, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=509">Click here to Register</a></p>
+<hr>
+
+<p><strong>Puerto Rico</strong></p>
+<p>No events listed</p>
+<hr>
+<p><strong>Rhode Island</strong></p>
+<p>No events listed</p>
+<hr>
+			
+<p><strong>South Carolina</strong></p>
+<p>No events listed</p>
+<hr>
+			
+<p><strong>South Dakota</strong></p>
+<p>No events listed</p>
+<hr>
+<p><strong>Tennessee</strong></p>
+<p>No events listed</p>
+<hr>
+			
+<p><strong>Texas</strong></p>
+<p>Student Event<br>
+Houston, TX - April 28, 2019 @ 2:00pm<br>
+<a href="event_detail.php?id=476">Click here to Register</a></p>
+<hr>
+
+<p>Student Event<br>
+Houston, TX - April 28, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=479">Click here to Register</a></p>
+<hr>
+
+<p>Student Event<br>
+San Antonio, TX - April 29, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=482">Click here to Register</a></p>
+<hr>
+
+<p>Student Event<br>
+Austin, TX - April 30 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=486">Click here to Register</a></p>
+<hr>
+
+<p>Student Event<br>
+Irving, TX - May 1, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=489">Click here to Register</a></p>
+<hr>
+
+<p>Student Event<br>
+Fort Worth, TX - May 2, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=491">Click here to Register</a></p>
+<hr>
+
+<p><strong>Utah</strong></p>
+<p>No events listed</p>
+<hr>
+
+<p><strong>Vermont</strong></p>
+<p>No events listed</p>
+<hr>
+<p><strong>Virginia</strong></p>
+<p>Student Event<br>
+Alexandria, VA - May 22, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=496">Click here to Register</a></p>
+<hr>
+
+<p>Student Event<br>
+Richmond, VA - May 23, 2019 @ 7:00pm<br>
+<a href="event_detail.php?id=497">Click here to Register</a></p>
+<hr>
+			
+<p><strong>Washington</strong></p>
+<p>No events listed</p>
+<hr>
+<p><strong>Washington, DC (District of Columbia)</strong></p>
+<p>No events listed</p>
+<hr>
+<p><strong>West Virginia</strong></p>
+<p>No events listed</p>
+<hr>
+<p><strong>Wisconsin</strong></p>
+<p>No events listed</p>
+<hr>
+<p><strong>Wyoming</strong></p>
+<p>No events listed</p>
+<hr>
+<p><br>
+</p>
+<p>&nbsp;</p>
+<p></p>
+
+            
+        
+      </div> <!--End Main Content-->
+
+	</div>  <!--End Page Wrap-->
+    
+        <footer>
+        <table width="1020">
+  <tr>
+    <td width="505" valign="top"><div id="footer">Site designed by <br>
+    <a href="http://www.innova-media.com" target="_blank">Innova Media, Inc.</a></div></td>
+    <td width="503" valign="top"><div id="copyright">
+      <div align="right">Copyright&copy;2019 - Exploring Educational Excellence - All Rights Reserved. <a href="mailto:info@exploringeducationalexcellence.org">info@exploringeducationalexcellence.org</a></div>
+    </div></td>
+    
+    
+        
+     
+
+  </tr>
+</table>
+        </footer>    
+    
+</body>
+</html>
