@@ -3,7 +3,7 @@ library(jsonlite)
 library(maps)
 library(mapdata)
 
-events <- fromJSON("../data/events.json")
+events <- fromJSON("../data/events-20190719.json")
 
 states <- map_data("state")
 ggplot() +
