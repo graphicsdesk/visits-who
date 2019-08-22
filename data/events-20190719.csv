@@ -1,0 +1,340 @@
+"","title","timestamp","duration","venue","lat","lng","id","address"
+"1","Exploring Educational Excellence- Wilmington, DE","2019-06-05T19:00:00",5400,"DoubleTree by Hilton Hotel Wilmington",39.819,-75.547,"7eecdbcc-8b39-47cb-b95c-fa6723bf2b70",NA
+"2","Exploring Educational Excellence- Washington, D.C","2019-05-21T19:00:00",5400,"Washington Marriott Wardman Park",38.925,-77.054,"1a45ac57-b6f9-4b27-8c77-8c1d758f8bad",NA
+"3","Exploring Educational Excellence- Oak Brook, IL","2019-06-02T14:00:00",5400,"Chicago Marriott Oak Brook",41.846,-87.953,"043ad2a6-870e-4d0a-9ad5-0aace683644c",NA
+"4","Exploring Educational Excellence- Chicago, IL","2019-06-02T19:00:00",5400,"Palmer House a Hilton Hotel",41.88,-87.627,"26beb80e-d2f6-4848-8006-980ea35034e3",NA
+"5","Exploring Educational Excellence- Indianapolis, Indiana","2019-06-05T19:00:00",5400,"Sheraton Indianapolis City Centre Hotel",39.77,-86.159,"f62f987d-15a6-424d-8a2e-424ae4a51fd9",NA
+"6","Exploring Educational Excellence- Baltimore, MD","2019-05-19T19:00:00",5400,"Baltimore Marriott Inner Harbor at Camden Yards",39.287,-76.622,"320675e9-88c1-4036-b9eb-32624e1d2fad",NA
+"7","Exploring Educational Excellence- Gaithersburg, MD","2019-05-20T19:00:00",5400,"Gaithersburg Marriott Washingtonian Center",39.116,-77.196,"edada695-dd94-4cf2-afcf-63d9a5daa70a",NA
+"8","Exploring Educational Excellence- Detroit, MI","2019-06-06T19:00:00",5400,"DoubleTree by Hilton Hotel Detroit - Dearborn",42.332,-83.217,"2c96a53b-26fc-4e4a-8247-9c54855cc4ae",NA
+"9","Exploring Educational Excellence- Minneapolis, MN","2019-06-03T19:00:00",5400,"DoubleTree by Hilton Hotel Minneapolis - Park Place",44.969,-93.351,"81d48a5b-b85b-474b-92de-bf6bbc5e6532",NA
+"10","Exploring Educational Excellence- Chesterfield, MO","2019-06-04T19:00:00",5400,"DoubleTree by Hilton Hotel St. Louis - Chesterfield",38.664,-90.568,"3e398dff-485c-4318-a685-fe3e89bf9993",NA
+"11","Exploring Educational Excellence- Plainsboro, NJ","2019-06-04T19:00:00",5400,"West Windsor-Plainsboro HS N",40.322,-74.601,"2d5c87b8-72a5-4efc-b921-cd25f289ad0d",NA
+"12","Exploring Educational Excellence- New York, NY","2019-06-02T14:00:00",5400,"Miller Theatre",40.808,-73.963,"0e651d01-00e1-493a-a126-1969fe82443c",NA
+"13","Exploring Educational Excellence- White Plains, NY","2019-06-02T19:00:00",5400,"Crowne Plaza Hotel",41.03,-73.76,"b6709e48-96a0-45f8-b37a-115555c7a63c",NA
+"14","Exploring Educational Excellence- Dix Hills, NY","2019-06-03T19:00:00",5400,"Half Hollow Hills High School East",40.791,-73.386,"5e97e96e-cee4-4f44-9ce0-99cfd3d4c798",NA
+"15","Exploring Educational Excellence- King of Prussia, PA","2019-06-06T19:00:00",5400,"DoubleTree by Hilton Hotel Philadelphia - Valley Forge",40.091,-75.37,"843f2f77-ae18-4195-9c26-6603f1d51ae9",NA
+"16","Exploring Educational Excellence- Tysons, VA","2019-05-22T19:00:00",5400,"Tysons Corner Marriott",38.914,-77.221,"da7cec19-ce2b-45dd-bb9a-bb85cf8262bb",NA
+"17","Exploring Educational Excellence- Richmond, VA","2019-05-23T19:00:00",5400,"Delta Hotels by Marriott Richmond Downtown",37.538,-77.441,"00c2b23a-57c9-425f-8274-3f19e5394dce",NA
+"18","EEE Evening Program in Irvine, CA","2019-04-29T19:00:00",7200,"Hilton Irvine/Orange County Airport",33.675,-117.861,"3ef22548-0d01-4163-8303-a8956ff36f3c",NA
+"19","EEE Evening Program in San Diego, CA","2019-04-30T19:00:00",7200,"DoubleTree by Hilton Hotel San Diego - Mission Valley",32.77,-117.16,"30fd0668-2d90-4373-ab12-4a1926bb0dbd",NA
+"20","EEE Evening Program in Berkeley, CA","2019-05-01T19:00:00",7200,"DoubleTree by Hilton Hotel Berkeley Marina",37.868,-122.314,"40d3cb6f-1740-42b3-a324-224704faa8a3",NA
+"21","EEE Evening Program in San Jose, CA","2019-05-02T19:00:00",7200,"San Jose Marriott",37.33,-121.888,"303bb4cf-35ae-47cf-b3f0-3f0656ec8f83",NA
+"22","EEE Evening Program in Wilmington, DE","2019-06-05T19:00:00",7200,"Doubletree Hotel Wilmington",39.742,-75.548,"0bcd2809-11ac-49b6-899d-ef0be516d202",NA
+"23","EEE Evening Program in Washington, D.C.","2019-05-21T19:00:00",7200,"Washington Marriott Wardman Park",38.925,-77.054,"4ef4a03c-e9fe-44df-8277-529962d87156",NA
+"24","EEE Evening Program in Orlando, FL","2019-04-30T19:00:00",7200,"University High School",28.578,-81.216,"bd01993c-a5ff-477f-8a1d-5d08dde2ae5a",NA
+"25","EEE Evening Program in Boca Raton, FL","2019-05-01T19:00:00",7200,"Boca Raton Marriott",26.362,-80.123,"b0840e49-ffeb-4066-8c67-4eeb60f9de57",NA
+"26","EEE Evening Program in Miami, FL","2019-05-02T19:00:00",7200,"Marriott Airport Miami",25.784,-80.263,"a49ac622-2544-4154-a73b-990dfca3c763",NA
+"27","EEE Afternoon Program in Chicago, IL","2019-06-02T14:00:00",7200,"Chicago Marriott Oak Brook",41.846,-87.953,"71cf1c0b-43e1-4b22-9fd0-83d573590ca1",NA
+"28","EEE Evening Program in Chicago, IL","2019-06-02T19:00:00",7200,"Palmer House a Hilton Hotel",41.88,-87.627,"15fdef21-b664-47cb-95eb-b6ec11345989",NA
+"29","EEE Evening Program in Indianapolis, IN","2019-06-05T19:00:00",7200,"Sheraton Indianapolis",39.77,-86.159,"e33f2094-c0dd-477a-a8b9-6aefb3a13558",NA
+"30","EEE Evening Program in Baltimore, MD","2019-05-19T19:00:00",7200,"Baltimore Marriott Inner Harbor at Camden Yards",39.287,-76.622,"1f020ed7-44f9-4fc9-b711-7d6156b5d3a8",NA
+"31","EEE Evening Program in Gaithersburg, MD","2019-05-20T19:00:00",7200,"Gaithersburg Marriott Washingtonian Center",39.116,-77.196,"09300ce1-83a0-40e9-862c-aa4317981290",NA
+"32","EEE Evening Program in Detroit, MI","2019-06-06T19:00:00",7200,"DoubleTree by Hilton Hotel Detroit - Dearborn",42.332,-83.217,"cb63f28e-73e6-418c-8f71-c16068cbe683",NA
+"33","EEE Evening Program in Minneapolis, MN","2019-06-03T19:00:00",7200,"DoubleTree by Hilton Hotel Minneapolis - Park Place",44.969,-93.351,"2aa092e3-705e-4a04-ab0a-68f81679e99b",NA
+"34","EEE Evening Program in St. Louis, MO","2019-06-04T19:00:00",7200,"DoubleTree by Hilton Hotel St. Louis - Chesterfield",38.664,-90.568,"ccbaa3cf-89a2-4009-b177-b337e0157e30",NA
+"35","EEE Evening Program in Plainsboro, NJ","2019-06-04T19:00:00",7200,"West Windsor-Plainsboro High School North",40.322,-74.601,"40b89d9d-0882-4771-b309-ab12a00afc50",NA
+"36","EEE Afternoon Program in New York, NY","2019-06-02T14:00:00",7200,"Miller Theatre",40.808,-73.963,"ef68d3bf-37dd-411d-80e6-a177fb4e1f9b",NA
+"37","EEE Evening Program in White Plains, NY","2019-06-02T19:00:00",7200,"Crowne Plaza Hotel",41.03,-73.76,"e775c18d-e9e5-40bc-8393-299e2f49dc8e",NA
+"38","EEE Evening Program in Dix Hills, NY","2019-06-03T19:00:00",7200,"Half Hollow Hills High School East",40.803,-73.359,"af251a94-2b38-4956-8693-b93abf4e641e",NA
+"39","EEE Evening Program in King of Prussia, PA","2019-06-06T19:00:00",7200,"DoubleTree by Hilton Hotel Philadelphia - Valley Forge",40.091,-75.37,"0de23f30-c3cd-43ec-a015-38f0a573b4cf",NA
+"40","EEE Evening Program in Austin, TX","2019-04-30T19:00:00",7200,"Norris Conference Centers - Austin",30.357,-97.735,"b61f6b51-8ae2-4c3d-9b7c-12dba5948505",NA
+"41","EEE Evening Program in Dallas, TX","2019-05-01T19:00:00",7200,"Irving Convention Center at Las Colinas",32.878,-96.943,"346ca5c0-d44f-4a02-a786-70b752269194",NA
+"42","EEE Evening Program in Fort Worth, TX","2019-05-02T19:00:00",7200,"Sheraton Fort Worth Downtown Hotel",32.748,-97.325,"798060c4-d8c3-4651-b4be-8ad65339bd3f",NA
+"43","EEE Evening Program in Alexandria, VA","2019-05-22T19:00:00",7200,"Tysons Corner Marriott",38.913,-77.223,"fa5ce5f4-4657-4c10-8628-eb6fda662611",NA
+"44","EEE Evening Program in Richmond, VA","2019-05-23T19:00:00",7200,"Delta Hotels by Marriott Richmond Downtown",37.538,-77.441,"c52eb675-7aef-4a20-87f5-6c4823e0ab62",NA
+"45","Introduction to Columbia: Chicago","2019-07-11T18:00:00",7200,"Whitney M Young Magnet High School",41.878,-87.664,"33440e33-a2ca-4004-a444-f96d5231922f",NA
+"46","Caltech MIT Pomona Yale Information Session in McAllen","2019-04-28T14:00:00",NA," Lamar IB/Options to Education Academy",26.213,-98.229,"CMPYMcAllen2019",NA
+"47","Caltech MIT Pomona Yale Information Session in New Orleans","2019-04-29T18:00:00",NA,"Benjamin Franklin High School",30.025,-90.066,"CMPYNewOrleans2019",NA
+"48","Caltech MIT Pomona Yale Information Session in Pensacola","2019-04-30T19:00:00",NA,"Pensacola High School",30.435,-87.225,"CMPYPensacola2019",NA
+"49","Caltech MIT Pomona Yale Information Session in Jacksonville","2019-05-01T19:00:00",NA,"Paxon School for Advanced Studies",30.346,-81.725,"CMPYJacksonville2019",NA
+"50","Caltech MIT Pomona Yale Information Session In Orlando","2019-05-02T19:00:00",NA,"Lake Highland Preparatory School",28.558,-81.372,"CMPYOrlando2019",NA
+"51","Coast to Coast College Tour – Birmingham Information Session","2019-05-21T19:00:00",7200,"Hilton Birmingham at UAB",33.504,-86.799,"33ead71c-7167-416b-a328-e47d515b6a68",NA
+"52","Coast to Coast College Tour – Fort Lauderdale Information Session","2019-05-19T13:00:00",7200,"DoubleTree by Hilton Hotel Sunrise - Sawgrass Mills",26.145,-80.326,"a4b5d27d-9f64-411b-8397-ada936fe670b",NA
+"53","Coast to Coast College Tour – Miami Information Session","2019-05-19T19:00:00",7200,"Hilton Miami Airport Blue Lagoon",25.782,-80.279,"41de5e21-d6ea-4e58-b9a6-07131a3a8edd",NA
+"54","Coast to Coast College Tour – Tampa Information Session","2019-05-22T19:00:00",7200,"Tampa Airport Marriott",27.981,-82.535,"9863a21f-6340-4cf2-a631-0ca5fac99d24",NA
+"55","SAS College Forum","2019-06-01T10:00:00",7200,"School for Advanced Studies (SAS) at Miami Dade College",25.778,-80.189,"14ce253f-1c36-40fc-8ade-fd3932f6260b",NA
+"56","Coast to Coast College Tour – Atlanta Information Session","2019-05-20T19:00:00",7200,"The Westminster Schools",33.848,-84.433,"c9d091e8-8b97-40e0-8b32-95c5a78912d9",NA
+"57","College and University Breakthrough - Honolulu Information Session","2019-06-03T19:00:00",7200,"Japanese Cultural Center of Hawai'i",21.294,-157.823,"7db8d3d1-6958-41a5-862e-3a446a049e77",NA
+"58","Coast to Coast College Tour – Indianapolis Information Session","2019-05-21T19:00:00",7200,"University High School of Indiana",39.954,-86.212,"4770d6b4-4510-4e0a-9623-bef3208879f9",NA
+"59","Coast to Coast College Tour – Washington Information Session","2019-06-02T19:00:00",7200,"Bethesda-Chevy Chase High School",38.987,-77.089,"e586c281-a851-47ab-893f-40d192536fd3",NA
+"60","Coast to Coast College Tour – Baltimore Information Session","2019-06-03T19:00:00",7200,"Sheraton Baltimore North Hotel",39.406,-76.6,"eca35c67-3874-4471-a11a-9558da4dce62",NA
+"61","Coast to Coast College Tour – Boston Information Session","2019-06-06T19:00:00",7200,"The Westin Waltham Boston",42.395,-71.26,"d9ee406d-4001-4f6c-bff7-4cae8923134b",NA
+"62","Coast to Coast College Tour – Detroit Information Session","2019-05-20T19:00:00",7200,"Troy High School",42.587,-83.178,"7d986b10-4973-4e72-976a-1a4bae1c30b2",NA
+"63","Coast to Coast College Tour – Minneapolis Information Session","2019-05-23T19:00:00",7200,"Edina High School",NA,NA,"d865ae85-b725-4509-be4a-98f7e775a07f","Edina High School
+Edina Performing Arts Center
+6754 Valley View Rd
+Edina, MN 55439
+United States"
+"64","Coast to Coast College Tour – Long Island Information Session","2019-06-04T19:00:00",7200,"Melville Marriott Long Island",40.784,-73.422,"4856aeee-0d80-4bf2-8feb-ebf13308de23",NA
+"65","Coast to Coast College Tour – Albany Information Session","2019-06-05T19:00:00",7200,"Columbia High School",42.626,-73.691,"658c0fca-5695-4e86-9b23-3c3be4dc9786",NA
+"66","Coast to Coast College Tour – Pittsburgh Information Session","2019-05-19T19:00:00",7200,"Fox Chapel Area High School",40.519,-79.87,"a26a80d5-9a73-4b3b-bbf8-74ebdc88df2c",NA
+"67","Coast to Coast College Tour – San Juan Information Session","2019-05-23T19:00:00",7200,"Baldwin School of Puerto Rico",18.381,-66.125,"2cdc21e0-f0a6-4f41-ba2a-4272917b1605",NA
+"68","Coast to Coast College Tour – Nashville Information Session","2019-05-22T19:00:00",7200,"Montgomery Bell Academy",36.128,-86.837,"70d3195e-dd9d-446c-b1e1-30e0755417cd",NA
+"69","College and University Breakthrough -  Seattle Information Session","2019-06-05T19:00:00",7200,"Seattle Art Museum",47.607,-122.338,"ba94e130-8e49-48ca-bd22-fd536e112e1d",NA
+"70","College and University Breakthrough -  Vancouver Information Session","2019-06-06T19:00:00",7200,"Museum of Vancouver",49.276,-123.145,"155dd216-5806-4190-ab3f-bb7af6b75c26",NA
+"71","Exploring College Options - Phoenix, AZ (Chandler)","2019-05-22T19:00:00",7200,"Hilton Phoenix Chandler",33.298,-111.892,"b0001c23-c059-407e-be83-02d8b99f90e3",NA
+"72","Exploring College Options - Phoenix, AZ","2019-05-23T19:00:00",7200,"Pointe Hilton Squaw Peak Resort",33.549,-112.046,"14af4a36-f8a1-4c1a-8674-3bf3a4de6715",NA
+"73","Exploring College Options - San Francisco, CA","2019-05-12T19:00:00",7200,"Hilton San Francisco Union Square",37.786,-122.41,"b6197770-f0d9-4340-a62e-1267e2a09b58",NA
+"74","Exploring College Options - San Mateo, CA","2019-05-13T19:00:00",7200,"San Mateo Marriott San Francisco Airport",37.556,-122.301,"1bb7dcf3-a66b-4da8-8f9d-abc881122229",NA
+"75","Exploring College Options - San Jose, CA","2019-05-14T19:00:00",7200,"DoubleTree by Hilton Hotel San Jose",37.372,-121.923,"c91f2da1-47fc-4448-b5f3-e9e85941249b",NA
+"76","Exploring College Options - Oakland, CA","2019-05-15T19:00:00",7200,"Oakland Marriott City Center",37.802,-122.274,"7cfb30d3-0195-4e61-9fe2-11a1400e4c45",NA
+"77","Exploring College Options - Sacramento, CA","2019-05-15T19:00:00",7200,"Hyatt Regency Sacramento",38.578,-121.491,"b04a7cf5-12b1-4c27-9995-d1846479145f",NA
+"78","Exploring College Options - Fremont, CA","2019-05-16T19:00:00",7200,"Fremont Marriott Silicon Valley",37.489,-121.946,"002d46ab-8416-4462-9a28-2685b4783ba7",NA
+"79","Exploring College Options - San Diego, CA","2019-05-16T19:00:00",7200,"Hilton San Diego Mission Valley",32.764,-117.157,"50aa5396-8c0b-455e-a56e-028953a07fda",NA
+"80","Exploring College Options - Anaheim, CA","2019-05-19T19:00:00",7200,"Sheraton Park Hotel at the Anaheim Resort",33.801,-117.916,"b3536394-42ef-4c3c-8f44-d8985076c065",NA
+"81","Exploring College Options - Irvine, CA","2019-05-20T19:00:00",7200,"Irvine Marriott",33.678,-117.85,"ea5302e4-6716-4b53-a58e-3db0f645a6fb",NA
+"82","Exploring College Options - Woodland Hills, CA","2019-05-21T19:00:00",7200,"Hilton Woodland Hills",34.186,-118.597,"8160ef2d-be36-48b0-a890-e51afa7d2e56",NA
+"83","Exploring College Options - Los Angeles, CA (Downtown)","2019-05-22T19:00:00",7200,"The Westin Bonaventure Hotel & Suites, Los Angeles",34.052,-118.256,"b8f4c260-c411-4a8a-9b6e-6a7faf5e4774",NA
+"84","Exploring College Options - Los Angeles, CA (LAX)","2019-05-23T19:00:00",7200,"Los Angeles Airport Marriott",33.946,-118.384,"ff352e6e-2cfa-442e-a69a-db92a3ef3cb4",NA
+"85","Exploring College Options - Denver, CO","2019-05-19T19:00:00",7200,"Hilton Denver Inverness",39.57,-104.868,"d9f3eaf4-3369-4b6a-9cb5-dff110765a77",NA
+"86","Exploring College Options - Boulder, CO","2019-05-20T19:00:00",7200,"Hotel Boulderado",40.019,-105.279,"462686a5-4a55-4b57-9cd2-a3b0fb3e2e8a",NA
+"87","Exploring College Options - Trumbull, CT","2019-05-22T19:00:00",7200,"Trumbull Marriott Shelton",41.236,-73.15,"a2590a9b-d8aa-45fa-afb0-08f8284f9417",NA
+"88","Exploring College Options - Wilmington, DE","2019-05-14T19:00:00",7200,"Sheraton Suites Wilmington Downtown",39.747,-75.551,"7f4682a4-a0fa-4a3d-9353-9b9cf268e4ee",NA
+"89","Exploring College Options - Washington DC","2019-05-12T19:00:00",7200,"Washington Marriott at Metro Center",38.899,-77.028,"8167b947-be37-4264-ab02-e45246e68cc2",NA
+"90","Exploring College Options - Tampa, FL","2019-05-12T19:00:00",7200,"Tampa Renaissance Hotel, International Plaza",27.966,-82.52,"e1fc6ffc-f025-499d-b3e6-7e3ebb19dda5",NA
+"91","Exploring College Options - Orlando, FL","2019-05-13T19:00:00",7200,"Renaissance Orlando Airport Hotel",28.461,-81.311,"692e58c7-ce79-4f50-bb75-e2ce451a8ee6",NA
+"92","Exploring College Options - Palm Beach, FL","2019-05-14T19:00:00",7200,"West Palm Beach Marriott",26.707,-80.063,"d43a57a5-b4fa-44f2-aed3-8d25885aaa47",NA
+"93","Exploring College Options - Fort Lauderdale, FL","2019-05-15T19:00:00",7200,"Fort Lauderdale Marriott North",26.208,-80.143,"d882c6c7-26d1-40cd-bb61-ea369781256e",NA
+"94","Exploring College Options - Miami, FL","2019-05-16T19:00:00",7200,"Miami Marriott Dadeland",25.686,-80.314,"bf84dd1f-a3d1-4bb7-bcfb-c3675d923cd3",NA
+"95","College Forum","2019-06-01T10:00:00",7200,"Miami Dade College",25.778,-80.191,"72a3b85a-fe4f-44d1-8e3d-5fd7a0f13a68",NA
+"96","Exploring College Options - Atlanta, GA (Perimeter)","2019-05-22T19:00:00",7200,"Crowne Plaza Atlanta Perimeter at Ravinia",33.921,-84.338,"9c8a4e08-14ff-4c32-89f5-2484c1d54461",NA
+"97","Exploring College Options - Atlanta, GA (Buckhead)","2019-05-23T19:00:00",7200,"Atlanta Marriott Buckhead Hotel & Conference Center",33.848,-84.36,"768d24ac-33f4-4ac8-a63f-29b8d3b340ff",NA
+"98","Exploring College Options - Chicago, IL (Downtown)","2019-05-12T19:00:00",7200,"Chicago Marriott Downtown Magnificent Mile",41.892,-87.625,"86fb5c77-0e23-4562-8644-80a0a90ef4d1",NA
+"99","Exploring College Options - Chicago, IL (O'Hare)","2019-05-13T19:00:00",7200,"The Westin O'Hare",41.989,-87.862,"6ab9a35f-fc9a-414b-bcce-0377329bbade",NA
+"100","Exploring College Options - Oak Brook, IL","2019-05-14T19:00:00",7200,"Chicago Marriott Oak Brook",41.846,-87.953,"6980b733-13af-4bf5-8307-4a1df513df88",NA
+"101","Exploring College Options - Cincinnati, OH","2019-05-19T19:00:00",7200,"Cincinnati Marriott at RiverCenter",39.09,-84.512,"3eda7672-5989-4c5a-9ee2-e8abcf68ea45",NA
+"102","Exploring College Options - Baltimore, MD","2019-05-14T19:00:00",7200,"Renaissance Baltimore Harborplace Hotel",39.287,-76.611,"da5b4f25-bd73-4c5a-86fd-27340e3ace10",NA
+"103","Exploring College Options - Bethesda, MD","2019-05-15T19:00:00",7200,"Bethesda Chevy Chase High School",38.986,-77.089,"6e3f0186-2472-49c2-a440-6be2f1d2aa07",NA
+"104","Exploring College Options - Boston, MA","2019-05-19T19:00:00",7200,"Courtyard Boston Downtown",42.35,-71.065,"8dc1a902-9a3e-4f11-b1a8-a1cc67e81bc4",NA
+"105","Exploring College Options - Burlington, MA","2019-05-20T19:00:00",7200,"Boston Marriott Burlington",42.49,-71.195,"a48a3089-5619-40bd-8e1b-3613018a6b5c",NA
+"106","Exploring College Options - Ann Arbor, MI","2019-05-22T19:00:00",7200,"Weber's Inn",42.285,-83.792,"de471514-8438-4a02-aec5-6ad76d9e9a25",NA
+"107","Exploring College Options - Detroit, MI","2019-05-23T19:00:00",7200,"Auburn Hills Marriott Pontiac",42.605,-83.252,"001378cb-0730-4c5f-ac98-e9797daa1887",NA
+"108","Exploring College Options - Minneapolis, MN","2019-05-16T19:00:00",7200,"Hilton Minneapolis",44.973,-93.273,"2bf951c3-4a72-4713-8eff-d269ba194297",NA
+"109","Exploring College Options - Kansas City, MO","2019-05-22T19:00:00",7200,"Sheraton Kansas City Hotel at Crown Center",39.085,-94.58,"4ad32ad6-a64c-426e-8502-2e56afd280c9",NA
+"110","Exploring College Options - St. Louis, MO","2019-05-23T19:00:00",7200,"Hilton St. Louis Frontenac",38.634,-90.406,"a728f5b5-4d5f-4bf1-a47d-c6dd6fc20ea3",NA
+"111","Exploring College Options - Woodbridge, NJ","2019-05-14T19:00:00",7200,"Renaissance Woodbridge Hotel",40.557,-74.311,"208835d4-2b95-48bd-aa45-c1503dc27bed",NA
+"112","Exploring College Options - Morristown, NJ","2019-05-15T19:00:00",7200,"The Westin Governor Morris, Morristown",40.798,-74.459,"f4256193-cea1-413a-a6ea-7deea3e77d8a",NA
+"113","Exploring College Options - Mount Laurel, NJ","2019-05-15T19:00:00",7200,"The Westin Mount Laurel",39.933,-74.96,"e54da715-e029-48ab-a4d8-ab7012a59c85",NA
+"114","Exploring College Options - Princeton, NJ","2019-05-16T19:00:00",7200,"Hyatt Regency Princeton",40.324,-74.644,"294a44b7-27c5-49c4-86aa-aead25343563",NA
+"115","Exploring College Options - Brooklyn, NY","2019-05-12T19:00:00",7200,"New York Marriott at the Brooklyn Bridge",40.694,-73.988,"d3f834a1-96af-4660-bb51-dc56c0d74c6b",NA
+"116","Exploring College Options - Long Island, NY","2019-05-13T19:00:00",7200,"Melville Marriott Long Island",40.783,-73.422,"6c39c0ab-f9ec-4f6c-a731-033104fcd950",NA
+"117","Exploring College Options - New York, NY","2019-05-16T19:00:00",7200,"Hunter College High School",40.786,-73.954,"bf929b2c-da25-48c1-a691-5f6edf0b862d",NA
+"118","Exploring College Options - Westchester, NY","2019-05-23T19:00:00",7200,"Crowne Plaza Hotel",41.03,-73.76,"4970fd30-561c-4e65-baf1-df4d4de1fd7e",NA
+"119","Exploring College Options - Triangle, NC","2019-05-19T19:00:00",7200,"Embassy Suites by Hilton Raleigh",35.833,-78.772,"435a1326-ee31-4d72-b61f-9097f24b1818",NA
+"120","Exploring College Options - Greensboro, NC","2019-05-20T19:00:00",7200,"Greensboro Marriott Downtown",36.076,-79.791,"e922025b-16f2-4c0c-8488-b64d037bf21b",NA
+"121","Exploring College Options - Charlotte, NC","2019-05-21T19:00:00",7200,"Crowne Plaza Charlotte Executive Park",35.159,-80.89,"f9c280e5-6c6c-429f-a06a-5744b5b94f23",NA
+"122","Exploring College Options - Columbus, OH","2019-05-20T19:00:00",7200,"The Westin Great Southern Columbus",39.956,-82.999,"30cf54b3-7407-445e-9881-4204976fcab3",NA
+"123","Exploring College Options - Cleveland, OH","2019-05-21T19:00:00",7200,"Cleveland Airport Marriott",41.438,-81.8,"c7941b6e-3c6d-46f8-b8c5-604d330e3cc4",NA
+"124","Exploring College Options - Portland, OR","2019-05-14T19:00:00",7200,"Crowne Plaza Portland-Downtown Conv Ctr",45.534,-122.664,"e17f3ee8-06dc-4fcf-98b4-fb8f0a22fe0d",NA
+"125","Exploring College Options - Philadelphia, PA","2019-05-12T19:00:00",7200,"Philadelphia Marriott Downtown",39.953,-75.161,"b6cca845-0e3d-4d45-aceb-6793f1e1e731",NA
+"126","Exploring College Options - King of Prussia, PA","2019-05-13T19:00:00",7200,"Philadelphia Marriott West",40.069,-75.31,"e66b37bd-eb41-425e-be6e-602d1bc5d202",NA
+"127","Exploring College Options - Pittsburgh, PA","2019-05-16T19:00:00",7200,"Sheraton Pittsburgh Airport Hotel",40.502,-80.21,"b66eae89-19d4-4786-b105-4399beda5145",NA
+"128","Exploring College Options - Providence, RI","2019-05-21T19:00:00",7200,"Providence Marriott Downtown",41.836,-71.414,"51a52ade-3aa4-42c2-a337-db64fa52858e",NA
+"129","Exploring College Options - Dallas, TX","2019-05-19T19:00:00",7200,"Dallas/Addison Marriott Quorum by the Galleria",32.952,-96.825,"bd092745-d17a-4dde-9ed9-8f621f7bc1c7",NA
+"130","Exploring College Options - Houston, TX (Hobby)","2019-05-19T19:00:00",7200,"Houston Marriott South at Hobby Airport",29.657,-95.257,"0fcbf3fc-e6bc-4152-ae00-070957670279",NA
+"131","Exploring College Options - Dallas, TX","2019-05-20T19:00:00",7200,"Dallas/Addison Marriott Quorum by the Galleria",32.952,-96.825,"29c9d8a0-3f58-4a2c-bee7-41820d89c144",NA
+"132","Exploring College Options - Houston, TX (Memorial City)","2019-05-20T19:00:00",7200,"The Westin Houston, Memorial City",29.782,-95.545,"3df74c0f-01a3-40e3-aa83-5b8cb3bd10b0",NA
+"133","Exploring College Options - Ft. Worth, TX","2019-05-21T19:00:00",7200,"The Worthington Renaissance Fort Worth Hotel",32.756,-97.334,"0d8f5dca-2215-4e75-b559-15cecae7c98d",NA
+"134","Exploring College Options - Houston, TX (Galleria)","2019-05-21T19:00:00",7200,"The Westin Oaks Houston at the Galleria",29.74,-95.462,"1a5f32ba-e867-4d2e-b40c-d1d1b049cc56",NA
+"135","Exploring College Options - Austin, TX","2019-05-22T19:00:00",7200,"Hilton Austin",30.265,-97.738,"28dd69c1-9188-48bf-89cd-bc67c55ba3d2",NA
+"136","Exploring College Options - San Antonio, TX","2019-05-23T19:00:00",7200,"San Antonio Marriott Rivercenter",29.423,-98.484,"576b5427-1085-4427-b12d-991c961378a0",NA
+"137","Exploring College Options - Salt Lake City, UT","2019-05-21T19:00:00",7200,"Salt Lake City Marriott City Center",40.764,-111.889,"a3466e0a-5de4-4ee2-90d1-239edabbdbf6",NA
+"138","Exploring College Options - Tysons, VA","2019-05-13T19:00:00",7200,"Tysons Corner Marriott",38.914,-77.221,"d9cc69a7-a98a-4dd5-81d1-44fd7f3831bc",NA
+"139","Exploring College Options - Seattle, WA (SeaTac)","2019-05-12T19:00:00",7200,"Renaissance Seattle Hotel",47.607,-122.331,"67aeae73-9ed5-4a13-b356-a76a28f88e28",NA
+"140","Exploring College Options - Seattle, WA (Bellevue)","2019-05-13T19:00:00",7200,"Embassy Suites by Hilton Seattle Bellevue",47.581,-122.134,"04911009-f80b-4419-b329-bef9a580cc6f",NA
+"141","Exploring College Options - Milwaukee, WI","2019-05-15T19:00:00",7200,"Crowne Plaza Milwaukee Airport",42.928,-87.932,"eec39066-f213-4c43-9027-22fb35bf2725",NA
+"142","Georgia Tech, Johns Hopkins, UChicago, and WashU STEM Information Session in Hartford, CT","2019-06-03T19:00:00",5400,"Kingswood-Oxford School",41.759,-72.736,"8125279a-931c-4265-aa94-ffea0b136d2e",NA
+"143","Georgia Tech, Johns Hopkins, UChicago, and WashU STEM Information Session in Needham, MA","2019-06-05T19:00:00",5400,"Sheraton Boston Needham Hotel",42.303,-71.22,"69691098-e286-4018-ac20-3cb364646c4d",NA
+"144","Georgia Tech, Johns Hopkins, UChicago, and WashU STEM Information Session in Nashua, NH","2019-06-06T19:00:00",5400,"DoubleTree by Hilton Nashua",42.787,-71.504,"d38d3c4a-cebc-4d37-992f-4cf1cc599110",NA
+"145","Georgia Tech, Johns Hopkins, UChicago, and WashU STEM Information Session in Albany, NY","2019-06-02T19:00:00",5400,"The Albany Academies",42.646,-73.788,"5d1bc329-37be-41c1-8671-8d563ff4ce5a",NA
+"146","Georgia Tech, Johns Hopkins, UChicago, and WashU STEM Information Session in Providence, RI","2019-06-04T19:00:00",5400,"Providence Marriott Downtown",41.836,-71.414,"4dd28e61-a410-4572-9f89-b46b0c6c13d9",NA
+"147","UChicago Information Session in San Antonio","2019-05-23T18:00:00",5400,"Young Women's Leadership Academy",29.459,-98.534,"ab0b3d0c-558c-4ed5-ba9e-b4fbe31277b6",NA
+"148","UChicago Information Session in San Antonio","2019-05-25T11:00:00",5400,"Central Library - Auditorium",29.432,-98.493,"50e294ee-6db6-4f90-8f7a-7c990d27d34f",NA
+"149","UChicago Only Information Session","2019-06-17T18:30:00",5400,"Thomas Jefferson High School for Science and Technology ",38.818,-77.168,"0a67238b-a889-4caf-be9e-180466709164",NA
+"150","Barnard, Johns Hopkins, Notre Dame, and UChicago Information Session in Rio de Janeiro","2019-05-13T18:00:00",3600,"Our Lady of Mercy School",-22.956,-43.194,"648bc926-17f0-429e-8e64-57d0457c4a1e",NA
+"151","Barnard, Johns Hopkins, Notre Dame, and UChicago Information Session in Curitiba","2019-05-15T17:30:00",3600,"EducationUSA at FAE Centro Universitatio",-25.438,-49.273,"28b0e1f7-e1c5-4092-90a9-6160f310dd62",NA
+"152","Barnard, Johns Hopkins, Notre Dame, and UChicago Information Session in Sao Paulo","2019-05-16T19:00:00",3600,"EducationUSA at Alumni Itaim",-23.586,-46.68,"b74fbcea-e521-4401-b556-2a9b2faae7d6",NA
+"153","UChicago Information Session in Guangzhou","2019-05-13T19:00:00",5400,"Affiliated High School to South China Normal University",23.136,113.34,"3de6a433-3074-4f29-b450-0d620755e847",NA
+"154","UChicago Information Session in Hong Kong","2019-05-20T19:00:00",3600,"Chinese International School",22.284,114.198,"f4b3c907-7812-45f4-83c2-3b05191d3502",NA
+"155","UChicago Information Session in Manila","2019-05-15T19:00:00",3600,"Manila Marriott Hotel",14.521,121.019,"717ff5ef-9f94-4a07-96bf-55e4f0f4bec2",NA
+"156","UChicago Admissions Case Study Workshop","2019-05-13T19:00:00",3600,"Seoul Foreign School",37.569,126.938,"d9cbd03d-1247-4f18-8a29-983371c94cfa",NA
+"157","UChicago Information Session in Seoul","2019-05-14T19:00:00",3600,"Asia Pacific International School",37.63,127.049,"b4d8d9d5-4db3-4aff-8481-71c2bc4d6989",NA
+"158","UChicago Information Session in Bangkok","2019-05-13T19:00:00",5400,"Courtyard by Marriott Bangkok",13.741,100.542,"796c90b2-7e5c-4f44-9d85-bb74d80e6740",NA
+"159","Information Session on Applying to Highly Selective Colleges in the US","2019-05-23T19:00:00",NA,"Godolphin and Latymer School- The Hall",51.495,-0.229,"2c4ec78b-adf3-49c5-8bfd-7a5abd8b0bd5",NA
+"160","UChicago Information Session in Northfield","2019-07-09T19:00:00",5400,"Northfield Arts Guild Theater",44.457,-93.166,"b6ac4706-8e8d-4a97-8b3e-94c8f4213b99",NA
+"161","UChicago Information Session in Minneapolis","2019-07-14T15:00:00",5400,"Southdale Library",44.875,-93.32,"75cefe2b-855e-4af8-bebc-e93273cf49c7",NA
+"162","UChicago Information Session in Fargo","2019-07-11T18:00:00",5400,"Fargo Public Library – Dr. James Carlson Library",46.833,-96.827,"5a0e7bab-2279-496a-a7e9-3d7f4961e91c",NA
+"163","UChicago Information Session in Sioux Falls","2019-07-10T19:00:00",5400,"Lincoln HS",43.519,-96.709,"01af770f-05c5-4437-ae62-9f44445d749b",NA
+"164","UChicago Information Session in Milwaukee","2019-07-07T14:00:00",5400,"Marquette Univ. HS",43.038,-87.956,"75d4e763-4987-4575-a4dc-17131297ddd8",NA
+"165","UChicago Information Session in Madison","2019-07-08T19:00:00",5400,"Edgewood HS",43.06,-89.421,"c85b8911-bc0c-4e4d-889a-257dd6d60a47",NA
+"166","UChicago Information Session in Sacramento","2019-07-20T14:00:00",3600,"Sacramento Country Day School",38.57,-121.4,"de32eea6-1077-4c04-aca9-f58b5da332f6",NA
+"167","UChicago Information Session in Redwood City","2019-07-24T19:00:00",3600,"Sequoia HS",37.484,-122.237,"0f28d1ec-caf6-4d83-85d5-d30cbce66e06",NA
+"168","UChicago Information Session in Broward","2019-07-11T19:00:00",5400,"American Heritage School Plantation",26.121,-80.311,"34334616-0eee-4b15-b83a-54d04883a698",NA
+"169","UChicago Information Session in Miami","2019-07-14T14:00:00",5400,"Miami Country Day School - Center for the Fine Arts ",25.875,-80.184,"e51a58a8-64c9-4014-bddb-2edfa7acd889",NA
+"170","UChicago Information Session in Fort Myers","2019-07-15T18:00:00",5400,"Cape Coral Lee County Public Library",26.58,-81.995,"a18e7300-568e-49bb-bc4c-77f4e8272459",NA
+"171","UChicago Information Session in Tampa","2019-07-16T18:30:00",5400,"Berkeley Preparatory School",27.99,-82.563,"deaa5a46-c51d-4c16-86da-11e848fbd586",NA
+"172","UChicago Information Session in Winter Park","2019-07-18T18:30:00",5400,"Trinity Preparatory School",28.613,-81.273,"ec5c8348-7014-4b11-8182-79eb94bc2bf1",NA
+"173","UChicago Information Session in Santa Barbara","2019-07-21T13:00:00",5400,"Santa Barbara Public Library - Faulkner Gallery ",34.424,-119.703,"57af9dd0-2238-497c-8057-61c1b1186e8c",NA
+"174","UChicago Information Session in Santa Monica","2019-07-22T18:00:00",5400,"Santa Monica Public Library",34.019,-118.493,"da599f50-7215-4e76-aec3-7a03abaad5d7",NA
+"175","UChicago Information Session in Pasadena","2019-07-23T18:00:00",5400,"Westridge School",34.126,-118.156,"19718fc9-8495-48b3-9851-0aad0771a33d",NA
+"176","UChicago Information Session in Thousand Oaks","2019-07-24T18:30:00",5400,"La Reina High School",34.203,-118.877,"27699c68-405d-4847-a654-482a7730f19b",NA
+"177","UChicago Information Session in Claremont","2019-07-28T14:00:00",5400,"DoubleTree by Hilton Hotel Claremont",34.108,-117.724,"ebc194c8-9c19-4198-8d3d-b360395f2deb",NA
+"178","UChicago Information Session in Anaheim","2019-07-29T18:00:00",5400,"Fairmont Preparatory Academy",33.844,-117.96,"e0e63190-e6e2-46b2-8dce-ed2a4e00fc06",NA
+"179","UChicago Information Session in San Diego","2019-07-30T18:00:00",5400,"Saint Augustine High School",32.735,-117.124,"f5a6223e-75c7-4f39-925f-a709ce3c3307",NA
+"180","UChicago Information Session in Palos Verdes","2019-07-31T18:00:00",5400,"Palos Verdes High School",33.78,-118.42,"f1cc5bbe-f321-4bd6-b768-f8f36ee4478d",NA
+"181","UChicago Information Session in San Jose","2019-07-23T19:00:00",3600,"Valley Christian HS",37.276,-121.827,"c2f6bcaa-d9bd-4974-9d58-da64f002dc76",NA
+"182","UChicago Information Session in Atlanta","2019-07-13T14:00:00",5400,"Marist School",33.901,-84.335,"a04addc9-cac3-490b-87c3-0e1ea2fa86a4",NA
+"183","UChicago Information Session in Charlotte","2019-07-08T19:00:00",5400,"Providence Day School",35.161,-80.78,"85f3b0cd-8715-48ca-8d06-1b144ea628b4",NA
+"184","UChicago Information Session in Durham","2019-07-09T19:00:00",5400,"Durham Academy Upper School",35.978,-78.969,"ec17a412-641d-4855-b7a2-489e6befa686",NA
+"185","UChicago Information Session in Greenville","2019-07-07T14:00:00",5400,"Hughes Main Library",34.857,-82.402,"c1f90a2d-63cd-4a01-98ed-ca145d5a4967",NA
+"186","UChicago Information Session in Richmond","2019-07-10T19:00:00",5400,"Collegiate School",37.581,-77.587,"7f96c447-e56c-4caa-a9d8-0cb0be8a85ef",NA
+"187","UChicago Information Session in Charlottesville","2019-07-11T19:00:00",5400,"St Anne's-Belfield",38.042,-78.515,"5188ba35-a886-417b-ba68-50e645de23c1",NA
+"188","UChicago Information Session in the East Bay","2019-07-22T19:00:00",3600,"Bentley School",37.893,-122.152,"3edadcef-e808-4a13-b23a-6b06dce0bb21",NA
+"189","UChicago Information Session in San Francisco","2019-07-31T19:00:00",3600,"Park Branch Library",37.77,-122.451,"6a1a32d0-dc4c-45ed-8c76-d92e709126b7",NA
+"190","UChicago Information Session in Baltimore","2019-07-15T19:00:00",5400,"Friends School",39.357,-76.625,"d1e12399-f0a8-421c-8474-1d6c77616f4d",NA
+"191","UChicago Information Session in Ann Arbor","2019-07-28T15:00:00",NA,"Ann Arbor District Library: Downtown Library",42.278,-83.746,"0a6bb5c9-8110-4706-a6d0-1eca677c932d",NA
+"192","UChicago Information Session in Metro Detroit","2019-07-29T19:00:00",NA,"Detroit Country Day School",42.514,-83.264,"126b946b-fd70-4cde-a209-aa62351dc215",NA
+"193","UChicago Information Session in Metro Detroit","2019-07-30T19:00:00",NA,"University Liggett School",42.424,-82.901,"72f84dc6-28eb-4dee-966d-0696977f4fd4",NA
+"194","UChicago Information Session in Grand Rapids","2019-07-31T19:00:00",NA,"Grand Rapids Public Library - Ryerson Auditorium",42.965,-85.666,"2730515d-fbd0-40b5-92a7-d46b9a7d2edd",NA
+"195","UChicago Information Session in Portage","2019-08-01T19:00:00",NA,"Portage District Library",42.204,-85.587,"1adec1ae-5bbf-49f0-a141-30791e06efd5",NA
+"196","UChicago Information Session in Cleveland","2019-07-29T19:00:00",3600,"Hathaway Brown School",41.482,-81.541,"dfe8f643-17df-486f-b0d6-3635493cfc15",NA
+"197","UChicago Information Session in Columbus","2019-07-30T19:00:00",3600,"St Charles Prep HS",39.969,-82.947,"61e37325-4c3c-4e6e-bd92-20eff03fdd4e",NA
+"198","UChicago Information Session in Toledo","2019-07-31T19:00:00",3600,"Heatherdowns Branch Library",41.601,-83.622,"b388cc59-0885-4cc6-bb9b-2cd3c406b067",NA
+"199","UChicago Information Session in Philadelphia","2019-07-24T19:00:00",3600,"Parkway Central Library",39.959,-75.171,"aedd62c8-0c3f-4f57-8a85-69a12c2ecee7",NA
+"200","UChicago Information Session in Pittsburgh","2019-07-25T19:00:00",3600,"Oakland Catholic HS",40.449,-79.95,"5bfa0163-bed4-49e8-849a-74fd50dba751",NA
+"201","Quest for Colege Information Session in Birmingham","2019-06-23T19:00:00",5400,"Thompson HS Performing Arts Center ",33.223,-86.845,"983d8523-a286-4f72-986c-f6a918153f3b",NA
+"202","Quest for College Information Session in Little Rock","2019-06-25T18:00:00",5400,"Darragh Center Auditorium at the Public Library",34.747,-92.267,"ee7ba1be-3b9e-46cb-85a6-37441109c4ab",NA
+"203","UChicago Information Session in Denver","2019-08-04T14:30:00",3600,"Lowry Conference Center, room 100B-C",39.728,-104.887,"32df0c86-c0c4-40cd-9aa7-0f60824138e4",NA
+"204","UChicago Information Session in Colorado Springs","2019-08-05T19:00:00",3600,"Penrose Library",38.835,-104.826,"2130c265-ac2f-4e3a-8f01-506a92eaef2e",NA
+"205","UChicago Information Session in Boulder","2019-08-06T17:30:00",3600,"Boulder Public Library - Meadows Branch",39.999,-105.235,"6d20e37a-2216-4100-9cb4-ab9ebbf99b97",NA
+"206","Quest for College Information Session in Memphis","2019-06-24T19:00:00",5400,"White Station HS",35.118,-89.905,"2140e67e-4a6c-4c1d-af7c-dde339162cc5",NA
+"207","Quest for College Information Session in Waco","2019-06-26T19:00:00",5400,"Waco-McLennan County Library Central Library",31.547,-97.144,"a1d811a4-d7dd-4d91-b022-15512ae77fa1",NA
+"208","Quest for College Information Session in McAllen","2019-06-27T19:00:00",5400,"McAllen HS",26.226,-98.238,"0d5782ed-ddb1-4dea-895a-73efb26187b0",NA
+"209","UChicago Information Session in Wichita","2019-07-17T18:30:00",3600,"Evergreen Branch Library - Arkansas Room",37.73,-97.345,"3d838e9b-33b9-42c9-ac65-b9358ba7803d",NA
+"210","UChicago Information Session in Kansas City","2019-07-16T18:30:00",3600,"Ewing Marion Kauffman Foundation - Town Square Room",39.039,-94.577,"1109f636-a349-4e88-9709-3222211b7939",NA
+"211","UChicago Information Session in Omaha","2019-07-15T19:00:00",3600,"Brownell -Talbot School - Swanson Memorial Auditorium",41.264,-95.998,"2770998d-6bd6-4b5a-b1a0-27115ff2a3c9",NA
+"212","UChicago Information Session in Tulsa","2019-07-18T19:00:00",3600,"Woody Guthrie Center",36.159,-95.992,"b8f70104-ade2-4074-b26e-dbfbe447237e",NA
+"213","UChicago Information Session in Plano","2019-07-20T15:00:00",3600,"Parr Library - Program Room",33.056,-96.834,"30e12c2c-3494-45b6-9758-11b38fc5a4d6",NA
+"214","UChicago Information Session in Dallas","2019-07-21T15:00:00",3600,"Bryan Adams HS Auditorium",32.828,-96.681,"0d0b09e1-077d-448b-8586-8446cff2719e",NA
+"215","UChicago Information Session in Phoenix","2019-08-07T19:00:00",3600,"Trivium Preparatory Academy",33.47,-112.375,"efc4b039-542d-428a-a958-3dc1c7f12500",NA
+"216","UChicago Information Session in Scottsdale","2019-08-08T18:30:00",3600,"Scottsdale Public Library - Mustang Library",33.578,-111.885,"370b8acf-0265-4e29-82cb-b0d8aff4b283",NA
+"217","UChicago Information Session in Salt Lake City","2019-08-01T19:00:00",3600,"Salt Lake City Public Library",40.76,-111.885,"c34745c1-e1e8-4e01-b6b7-c8ced7d6f191",NA
+"218","UChicago Information Session in Moorestown","2019-08-19T19:00:00",3600,"Moorestown Friends School",39.965,-74.942,"e0c7bea4-6ca6-4cb1-b6dd-29342750c6a5",NA
+"219","UChicago Information Session in Basking Ridge","2019-08-20T19:00:00",3600,"Pingry School",40.621,-74.565,"3c9d501a-8492-4de4-b2db-795774fdaac6",NA
+"220","UChicago Information Session in Bergen County","2019-08-21T19:00:00",3600,"Dwight-Englewood School",40.888,-73.962,"5cc59fd9-c1bb-4ab1-9a01-76cd10807269",NA
+"221","UChicago Information Session in Princeton","2019-08-22T19:00:00",3600,"DoubleTree by Hilton Hotel Princeton",40.366,-74.597,"e9d8400f-304f-467b-b5e9-9749d89ae519",NA
+"222","UChicago Information Session in Millburn","2019-08-26T19:00:00",3600,"Millburn HS",40.72,-74.316,"bff4cafc-b477-46f3-9cd5-b05cebc7debe",NA
+"223","UChicago Information Session in Queens","2019-08-22T18:30:00",3600,"Sheraton Laguardia East Hotel - Phoenix Room",40.76,-73.832,"a5268aea-06c0-4f7e-8392-8fc58b25f0ce",NA
+"224","UChicago Information Session in Long Island","2019-08-26T18:30:00",3600,"Melville Marriott Long Island",40.783,-73.422,"39f96e4b-c1d4-412c-9fad-e06b6560f63c",NA
+"225","UChicago Information Session in Tarrytown","2019-08-27T18:30:00",3600,"Doubletree Tarrytown",41.061,-73.864,"2def5bef-2dfd-4c20-89df-3a86b0b532bc",NA
+"226","UChicago Information Session in Manhattan","2019-08-28T18:30:00",3600,"Hunter College HS",40.786,-73.954,"c2b09e3b-d23a-4624-b3e8-5cf1579f2229",NA
+"227","UChicago Information Session in Brooklyn","2019-08-29T18:30:00",3600,"New York Marriott at the Brooklyn Bridge",40.694,-73.988,"2067a257-c273-40dd-b652-1b4157d549f2",NA
+"228","UChicago Information Session Stamford","2019-08-14T19:00:00",3600,"King School",41.109,-73.532,"41409fdf-003b-4c90-8fa8-7bc5f5875815",NA
+"229","UChicago Information Session Hartford","2019-08-15T19:00:00",3600,"Kingswood-Oxford School",41.759,-72.736,"a39440ed-ee86-45c3-b8d9-68d2af1cdf4d",NA
+"230","UChicago Information Session Cape Cod","2019-08-17T15:00:00",3600,"Marine Biological Laboratory",41.526,-70.672,"09f39349-03cb-4298-9a92-ab15d8619680",NA
+"231","UChicago Information Session Worcester","2019-08-19T19:00:00",3600,"Bancroft School",42.305,-71.816,"50e2952f-9bf1-4803-8f52-57e79e59370d",NA
+"232","UChicago Information Session Wellesley","2019-08-20T19:00:00",3600,"Wellesley Free Library",42.297,-71.291,"353892b6-92d5-41db-afd7-f098076180bf",NA
+"233","UChicago Information Session Burlington","2019-08-21T19:00:00",3600,"Fletcher Free Library",44.477,-73.21,"06b49bc9-6992-4400-8b66-2af3a35dd9ef",NA
+"234","UChicago Information Session in Naperville","2019-08-05T18:00:00",7200,"Alfred Rubin Riverwalk Community Center",41.772,-88.153,"e38aec14-5323-41b8-ab09-00b6414c316f",NA
+"235","UChicago Information Session in Elgin","2019-08-12T18:00:00",7200,"Rolling Knolls Pavilion",42.035,-88.231,"5c9f9fe8-bf00-47f5-9c35-affaa7d31dcb",NA
+"236","UChicago Information Session in Plainfield","2019-08-12T18:00:00",7200,"Plainfield Township Community Center",41.609,-88.206,"46ad0f6f-f51b-4c0a-91eb-772ad1947374",NA
+"237","UChicago Information Session in DeKalb","2019-08-13T18:00:00",7200,"Ellwood House Museum",41.935,-88.753,"77cdb0a1-fa1b-4f8e-af5d-2eed07fd495d",NA
+"238","UChicago Information Session in River Forest","2019-08-13T18:00:00",7200,"River Forest Community Center",41.88,-87.825,"87a86885-9f6e-4ae9-aac4-df88a2a74975",NA
+"239","UChicago Information Session in Buffalo Grove","2019-08-15T18:00:00",7200,"Buffalo Grove Park District Community Arts Center",42.157,-87.958,"3cb59e14-075c-4f66-a4c9-96c2210cab81",NA
+"240","UChicago Information Session in Homewood","2019-08-15T18:00:00",7200,"Dolphin Lake Clubhouse",41.558,-87.682,"3f62f0c0-1d01-41e8-b6fe-f8a454069dd6",NA
+"241","UChicago Information Session in Boise","2019-08-19T19:00:00",3600,"Main Library!",43.611,-116.208,"6b233884-5781-413c-a236-282a44a28820",NA
+"242","UChicago Information Session in Redmond","2019-08-15T18:00:00",3600,"Redmond Regional Library",47.679,-122.128,"b0512401-8859-4738-92cd-6f1378f08263",NA
+"243","UChicago Information Session in Seattle","2019-08-17T14:00:00",3600,"Ballard Branch - The Seattle Public Library",47.67,-122.384,"c3776d10-1b8e-40fd-9dae-db7bedba2b78",NA
+"244","UChicago Information Session in Vancouver","2019-08-18T14:00:00",3600,"Vancouver Community Library",45.629,-122.669,"12730b56-cf0a-4aed-b433-0585a6961e27",NA
+"245","UChicago Information Session in Delhi","2019-08-20T18:00:00",NA,"The University of Chicago Center in Delhi",28.627,77.224,"040fd1c2-831c-455c-a371-b8944af102ef",NA
+"246","UChicago Information Session in Bengaluru","2019-08-24T11:30:00",NA,"Yashna Trust: EducationUSA Advising Center",12.995,77.608,"6131c53d-ced2-4773-ba75-fb8d96764413",NA
+"247","UChicago Information Session in Denver","2019-10-12T14:00:00",3600,"Denver Central Library",39.737,-104.988,"f8d6184c-8082-4bfd-a31a-44d08ab30cc9",NA
+"248","UChicago Information Session in Mumbai","2019-08-27T16:00:00",NA,"United States India Educational Foundation",18.935,72.829,"374a590e-d67a-402b-9dc9-cae51714e790",NA
+"249","Exploring College Options: Chandler, AZ","2019-05-22T19:00:00",NA,"Hilton Phoenix Chandler",33.298,-111.892,"f13d6a74-eae1-45fa-a633-7d6c38680878",NA
+"250","Exploring College Options: Phoenix, AZ","2019-05-23T19:00:00",NA,"Pointe Hilton Squaw Peak Resort",33.549,-112.046,"66f188f2-fbcf-48b9-b558-8b6e0d881caf",NA
+"251","Exploring College Options: San Francisco, CA","2019-05-12T19:00:00",NA,"Hilton San Francisco Union Square",37.786,-122.41,"b874c14a-6f26-40ce-b8f7-697ef13a3ad8",NA
+"252","Exploring College Options: San Mateo, CA","2019-05-13T19:00:00",NA,"San Mateo Marriott San Francisco Airport",37.556,-122.301,"49e93ea9-aea3-4348-aef5-9bb9e6c5a543",NA
+"253","Exploring College Options: San Jose, CA","2019-05-14T19:00:00",NA,"DoubleTree by Hilton Hotel San Jose",37.372,-121.923,"f55daf29-8a2e-47af-ac59-8e6688d6906c",NA
+"254","Exploring College Options: Oakland, CA","2019-05-15T19:00:00",NA,"Oakland Marriott City Center",37.802,-122.274,"e6700efb-f9cc-40d4-b513-475fb84d60a6",NA
+"255","Exploring College Options: Sacramento, CA","2019-05-15T19:00:00",NA,"Hyatt Regency Sacramento",38.578,-121.491,"0a30595a-8782-4ab7-9201-3827ca883006",NA
+"256","Exploring College Options: Fremont, CA","2019-05-16T19:00:00",NA,"Fremont Marriott Silicon Valley",37.489,-121.946,"6173289c-733d-4d62-86f8-489965ce1693",NA
+"257","Exploring College Options: San Diego, CA","2019-05-16T19:00:00",NA,"Hilton San Diego Mission Valley",32.764,-117.157,"c2737e66-f57e-47b3-b943-6fa73b1b5de8",NA
+"258","Exploring College Options: Anaheim, CA","2019-05-19T19:00:00",NA,"Sheraton Park Hotel at the Anaheim Resort",33.801,-117.916,"fa1b4e07-6a51-4602-928e-be0ada7fb9dd",NA
+"259","Exploring College Options: Irvine, CA","2019-05-20T19:00:00",NA,"Irvine Marriott",33.678,-117.85,"8cd7a9bc-acb2-4dbf-966d-4ece078ca22e",NA
+"260","Exploring College Options: Woodland Hills, CA","2019-05-21T19:00:00",NA,"Hilton Woodland Hills/Los Angeles",34.186,-118.597,"8173cf12-189b-4aac-80d2-49c9d666b2b2",NA
+"261","Exploring College Options: Los Angeles, CA (Downtown)","2019-05-22T19:00:00",NA,"The Westin Bonaventure Hotel & Suites, Los Angeles",34.052,-118.256,"6e345bc1-4e0e-460b-a841-416c7ab82235",NA
+"262","Exploring College Options: Los Angeles, CA (LAX)","2019-05-23T19:00:00",NA,"Los Angeles Airport Marriott",33.946,-118.384,"2d5816f1-78c6-47b6-9578-4698f7df7eb2",NA
+"263","Exploring College Options: Denver, CO","2019-05-19T19:00:00",NA,"Hilton Denver Inverness",39.57,-104.868,"5bcd5613-e271-4900-85f3-d3c922a945b2",NA
+"264","Exploring College Options: Boulder, CO","2019-05-20T19:00:00",NA,"Hotel Boulderado",40.019,-105.279,"c1864b0e-d554-4a5c-a43c-9f64de3e0ec5",NA
+"265","Exploring College Options: Trumbull, CT","2019-05-22T19:00:00",NA,"Trumbull Marriott Shelton",41.236,-73.15,"e8b5d7de-951f-499d-af1c-0d61c4520ce3",NA
+"266","Exploring College Options: Wilmington, DE","2019-05-14T19:00:00",NA,"Sheraton Suites Wilmington Downtown",39.747,-75.551,"ce46fd82-75dc-4a7c-a698-0756003fdd13",NA
+"267","Exploring College Options: Washington, DC","2019-05-12T19:00:00",NA,"Washington Marriott at Metro Center",38.899,-77.028,"d1c1217a-d1cb-45bd-b444-7de21047df49",NA
+"268","Exploring College Options: Tampa, FL","2019-05-12T19:00:00",NA,"Renaissance Tampa International Plaza Hotel",27.966,-82.52,"958fa5ca-213b-4d69-944c-9cf036140f37",NA
+"269","Exploring College Options: Orlando, FL","2019-05-13T19:00:00",NA,"Renaissance Orlando Airport Hotel",28.461,-81.311,"83a7a4cc-bcd2-42dd-99a5-ff1dfe516674",NA
+"270","Exploring College Options: Palm Beach, FL","2019-05-14T19:00:00",NA,"West Palm Beach Marriott",26.707,-80.063,"d3952ce1-68dc-4875-b341-f321745b177a",NA
+"271","Exploring College Options: Fort Lauderdale, FL","2019-05-15T19:00:00",NA,"Fort Lauderdale Marriott North",26.208,-80.143,"00054dfc-2766-4f08-b464-138ecae4fcdf",NA
+"272","Exploring College Options: Miami, FL","2019-05-16T19:00:00",NA,"Miami Marriott Dadeland",25.686,-80.314,"82fcc601-a584-4e3c-a1e6-5ffb330c8750",NA
+"273","SAS College Forum Featuring Penn, MIT, Princeton, Dartmouth, Stanford, U.Chicago, Brown, UC Berkeley and Johns Hopkins University","2019-06-01T10:00:00",7200,"School for Advanced Studies (SAS) at Miami Dade College",25.778,-80.189,"cee97fbd-f599-4fc3-a6bc-012608715416",NA
+"274","Exploring College Options: Atlanta, GA (Perimeter)","2019-05-22T19:00:00",NA,"Crowne Plaza Atlanta Perimeter at Ravinia",33.921,-84.338,"d15d8155-ba3c-4ff0-a379-5e8cb9a6f432",NA
+"275","Exploring College Options: Atlanta, GA (Buckhead)","2019-05-23T19:00:00",NA,"Atlanta Marriott Buckhead Hotel & Conference Center",33.848,-84.36,"ff0bd525-8d6d-4b2d-b077-783870225839",NA
+"276","Exploring College Options: Chicago, IL (Downtown)","2019-05-12T19:00:00",NA,"Chicago Marriott Downtown Magnificent Mile",41.892,-87.625,"e99309a0-4152-4af2-94e2-f4cc1f95e81b",NA
+"277","Exploring College Options: Chicago, IL (O'Hare)","2019-05-13T19:00:00",NA,"The Westin O'Hare",41.989,-87.862,"7a867242-9981-478c-86f7-ae3337fb8964",NA
+"278","Exploring College Options: Chicago, IL (Oak Brook)","2019-05-14T19:00:00",NA,"Chicago Marriott Oak Brook",41.846,-87.953,"f591da89-fb79-4ae8-a64a-8f678844f868",NA
+"279","Exploring College Options: Cincinnati, OH","2019-05-19T19:00:00",NA,"Cincinnati Marriott at RiverCenter",39.09,-84.512,"3eafe431-94c2-4815-b26e-f1368b8dc8fe",NA
+"280","Exploring College Options: Baltimore, MD","2019-05-14T19:00:00",NA,"Renaissance Baltimore Harborplace Hotel",39.287,-76.611,"7ce1f106-f397-4f9e-b170-4898d84ed2e1",NA
+"281","Exploring College Options: Bethesda, MD","2019-05-15T19:00:00",NA,"Bethesda-Chevy Chase High School",38.987,-77.089,"b9ef4d92-da9f-4a54-82e5-25d76bc824bc",NA
+"282","Exploring College Options: Boston","2019-05-19T19:00:00",NA,"Courtyard by Marriott Boston Downtown",42.35,-71.065,"58237290-80d9-45f2-afce-2bb0ebce52af",NA
+"283","Exploring College Options: Burlington, MA","2019-05-20T19:00:00",NA,"Boston Marriott Burlington",42.49,-71.195,"caccb7a8-729e-43fd-8d8f-4565089ce907",NA
+"284","Exploring College Options: Ann Arbor, MI","2019-05-22T19:00:00",NA,"Weber's Boutique Hotel",42.285,-83.792,"972654c1-ed6a-4013-9e91-95342c21bf1c",NA
+"285","Exploring College Options: Detroit, MI","2019-05-23T19:00:00",NA,"Auburn Hills Marriott Pontiac",42.605,-83.252,"7bda1ffb-6f1d-4a41-965e-8ffc31544910",NA
+"286","Exploring College Options: Minneapolis, MN","2019-05-16T19:00:00",NA,"Hilton Minneapolis",44.973,-93.273,"16a0480d-53c2-4ec6-818e-8f167c0f26f3",NA
+"287","Exploring College Options: Kansas City, MO","2019-05-22T19:00:00",NA,"Sheraton Kansas City Hotel at Crown Center",39.085,-94.58,"599621b3-5553-4496-847d-189c44610583",NA
+"288","Exploring College Options: St. Louis, MO","2019-05-23T19:00:00",NA,"Hilton St. Louis Frontenac",38.634,-90.406,"8b7efc56-484f-470d-9736-396d73c97e2d",NA
+"289","Exploring College Options: Woodbridge, NJ","2019-05-14T19:00:00",NA,"Renaissance Woodbridge Hotel/Delta by Marriott Woodbridge",40.557,-74.311,"2b67fabc-8b2b-4a7b-a781-20df32fa8880",NA
+"290","Exploring College Options: Morristown, NJ","2019-05-15T19:00:00",NA,"The Westin Governor Morris, Morristown",40.798,-74.459,"d5bab2ae-540f-4cc0-b9fa-18f26845dec5",NA
+"291","Exploring College Options: Mount Laurel, NJ","2019-05-15T19:00:00",NA,"The Westin Mount Laurel",39.933,-74.96,"5799956b-1c4e-4e55-b4a5-168c34b58acc",NA
+"292","Exploring College Options: Princeton, NJ","2019-05-16T19:00:00",NA,"Hyatt Regency Princeton",40.324,-74.644,"ab87fbb2-7420-43d2-af7f-0784bae10243",NA
+"293","Exploring College Options: Brooklyn, NY","2019-05-12T19:00:00",NA,"New York Marriott at the Brooklyn Bridge",40.694,-73.988,"66228cac-3093-46c5-92a0-63018acc8a22",NA
+"294","Exploring College Options: Long Island, NY","2019-05-13T19:00:00",NA,"Melville Marriott Long Island",40.784,-73.422,"92f9c6fa-cc36-420d-8388-63f2841163c6",NA
+"295","Exploring College Options: New York, NY","2019-05-16T19:00:00",NA,"Hunter College High School",40.786,-73.954,"20f62e69-eb34-4a20-83c1-313195a62cb7",NA
+"296","Exploring College Options: Westchester, NY","2019-05-23T19:00:00",NA,"Crowne Plaza Hotel",41.03,-73.76,"6d381d17-a9cd-4b9e-b0c7-0770c1e5561b",NA
+"297","Exploring College Options: Cary, NC","2019-05-19T19:00:00",NA,"Embassy Suites by Hilton Raleigh Durham Research Triangle",35.833,-78.772,"2432a29c-75b4-4dc8-83e5-c0c20babeadb",NA
+"298","Exploring College Options: Greensboro, NC","2019-05-20T19:00:00",NA,"Greensboro Marriott Downtown",36.076,-79.791,"b8f4ad25-2778-4d0f-825c-89c1ba4a0357",NA
+"299","Exploring College Options: Charlotte, NC","2019-05-21T19:00:00",NA,"Crowne Plaza Charlotte Executive Park",35.159,-80.89,"550d8bc6-83c4-4773-87b0-70ba122b04e8",NA
+"300","Exploring College Options: Columbus, OH","2019-05-20T19:00:00",NA,"The Westin Great Southern Columbus",39.956,-82.999,"0043aeea-e59e-4665-90ab-d44448221e38",NA
+"301","Exploring College Options: Cleveland, OH","2019-05-21T19:00:00",NA,"Cleveland Airport Marriott",41.438,-81.8,"de1fc5ed-ec32-4bb7-b53f-b296700e3a5f",NA
+"302","Exploring College Options: Portland, OR","2019-05-14T19:00:00",NA,"Crowne Plaza Portland-Downtown Convention Center",45.534,-122.664,"d22673ea-b0ce-4c62-b0e0-498abdcc550a",NA
+"303","Exploring College Options: Philadelphia, PA","2019-05-12T19:00:00",NA,"Philadelphia Marriott Downtown",39.953,-75.161,"c0574a90-2515-48fa-a8bd-25cc2d2f3c29",NA
+"304","Exploring College Options: King of Prussia, PA","2019-05-13T19:00:00",NA,"Philadelphia Marriott West",40.069,-75.31,"3daacdf5-f075-498c-a744-25d9e0c14636",NA
+"305","Exploring College Options: Pittsburgh, PA","2019-05-16T19:00:00",NA,"Sheraton Pittsburgh Airport Hotel",40.502,-80.21,"43a60d43-127f-4074-ab89-57c4b44eb186",NA
+"306","Exploring College Options: Providence, RI","2019-05-21T19:00:00",NA,"Providence Marriott Downtown",41.836,-71.414,"edf2166f-2bc1-4b04-aac6-14bbe1409813",NA
+"307","Exploring College Options: Dallas, TX","2019-05-19T19:00:00",NA,"Dallas/Addison Marriott Quorum by the Galleria",32.952,-96.825,"d9976847-2a4b-4198-a99f-653d9b790726",NA
+"308","Exploring College Options: Houston, TX (Hobby)","2019-05-19T19:00:00",NA,"Houston Marriott South at Hobby Airport",29.657,-95.257,"12a21786-fd8f-4424-996b-f4e4d0684103",NA
+"309","Exploring College Options: Dallas, TX","2019-05-20T19:00:00",NA,"Dallas/Addison Marriott Quorum by the Galleria",32.952,-96.825,"59a72973-c4bc-4127-ad68-48450e026c48",NA
+"310","Exploring College Options: Houston, TX (Memorial City)","2019-05-20T19:00:00",NA,"The Westin Houston, Memorial City",29.782,-95.545,"463af2ba-e343-42ca-bf1d-e11ded84f277",NA
+"311","Exploring College Options: Fort Worth, TX","2019-05-21T19:00:00",NA,"The Worthington Renaissance Fort Worth Hotel",32.756,-97.334,"327a43a5-379e-4624-bf86-28889c2670e6",NA
+"312","Exploring College Options: Houston, TX (Galleria)","2019-05-21T19:00:00",NA,"The Westin Oaks Houston at the Galleria",29.74,-95.462,"a1e890ec-5791-439e-8f43-df870b7578d3",NA
+"313","Exploring College Options: Austin, TX","2019-05-22T19:00:00",NA,"Hilton Austin",30.265,-97.738,"4e33014b-0123-4704-a56b-f4bb97057db6",NA
+"314","Exploring College Options: San Antonio, TX","2019-05-23T19:00:00",NA,"San Antonio Marriott Rivercenter",29.423,-98.484,"9e946c19-a5ed-4f6d-977e-adf33a51c388",NA
+"315","Exploring College Options: Salt Lake City, UT","2019-05-21T19:00:00",NA,"Salt Lake City Marriott City Center",40.764,-111.889,"2e0a7ca2-a731-4374-817d-9430a175cdc0",NA
+"316","Exploring College Options: Tysons Corner, VA","2019-05-13T19:00:00",NA,"Tysons Corner Marriott",38.914,-77.221,"415cfec9-1a1c-4eaa-8ea1-64d46dcc040d",NA
+"317","Exploring College Options: Seattle, WA","2019-05-12T19:00:00",NA,"Renaissance Seattle Hotel",47.607,-122.331,"7b578cf0-047a-45f4-a942-94c1dc246b5e",NA
+"318","Exploring College Options: Bellevue, WA","2019-05-13T19:00:00",NA,"Embassy Suites by Hilton Seattle Bellevue",47.581,-122.134,"a5b60e8d-344f-4df4-980a-9c68fd16618d",NA
+"319","Exploring College Options: Milwaukee, WI","2019-05-15T19:00:00",NA,"Crowne Plaza Milwaukee Airport",42.928,-87.932,"a1cf2cc9-cd1d-4a33-9276-8b9a54575f8b",NA
+"320","An Introduction to Penn:  Sydney, Australia","2019-09-10T18:00:00",5400,"Redlands",-33.83,151.226,"41deacbe-6f5e-44e3-ae7e-9e0813d6d720",NA
+"321","Introduction to Brown and Penn:  Hong Kong","2019-09-18T18:30:00",5400,"St. Paul's Co-educational College",22.276,114.158,"c300054e-64b9-4208-ac1b-bf4d491f2b10",NA
+"322","An Introduction to Brown and Penn:  Seoul, South Korea","2019-09-25T17:30:00",5400,"Yongsan International School of Seoul",37.542,127.001,"a8d95db7-fc60-430d-99e3-ab69ceadf2f0",NA
+"323","Introduction to Brown and Penn:  Thailand","2019-09-22T09:00:00",7200,"NIST International School",13.748,100.56,"0049f578-0fda-4bfd-aab8-ddc63b1861bb",NA
+"324","Introduction to Brown and Penn:  Vietnam","2019-10-01T18:00:00",5400,"Saigon South International School",10.722,106.709,"dacd8096-07c6-407b-a3d6-b524525ee1c1",NA
+"325","An Introduction to Penn:  Brisbane, Australia","2019-09-09T17:00:00",5400,"Brisbane Grammar School",-27.46,153.019,"e827d78a-0b12-4665-91c8-5f57bb82b3f7",NA
+"326","Quest For College Information Session in Sacramento","2019-06-03T19:00:00",NA,"Mira Loma High School",38.633,-121.371,"a370eae8-e02a-49fb-ba0a-fe4493093c34",NA
+"327","Quest For College Information Session in Fresno","2019-06-04T19:00:00",NA,"Clovis North High School",36.89,-119.737,"9238361c-1681-4bca-93c7-1d2840964780",NA
+"328","Quest For College Information Session in Riverside","2019-06-06T19:00:00",NA,"Rancho Cucamonga High School",34.132,-117.548,"2d7b4f80-5e39-4481-9022-d951bdcc4103",NA
+"329","Quest For College Information Session in Portland","2019-06-02T15:00:00",NA,"US Grant High School Marshall Campus",45.494,-122.573,"d6aa3f38-7a87-4a8d-a802-0f8402949af4",NA
+"330","Quest For College Information Session in Bakersfield","2019-06-05T19:00:00",NA,"Bakersfield Marriott at the Convention Center",35.372,-119.013,"e8be32a0-ba5f-472a-9c00-52f57db78821",NA
+"331","Quest For College Information Session in Birmingham","2019-06-23T19:00:00",NA,"Thompson High School",33.221,-86.833,"6add34d4-b3c6-4eb5-8d68-0ba093945391",NA
+"332","Quest For College Information Session in Little Rock","2019-06-25T18:00:00",NA,"Darragh Center Auditorium at the Public Library",34.747,-92.267,"736236b7-ca99-4085-bf8f-f69032cc37dd",NA
+"333","Quest For College Information Session in Memphis","2019-06-24T19:00:00",NA,"White Station High School",35.118,-89.905,"702b8369-5af1-4a33-ad6b-8d284d51f859",NA
+"334","Quest For College Information Session in Waco","2019-06-26T19:00:00",NA,"Waco-McLennan County Library Central Library",31.547,-97.144,"67660d42-3cab-41a2-941c-7afbb92b7f52",NA
+"335","Quest For College Information Session in McAllen","2019-06-27T19:00:00",NA,"Mcallen High School",26.226,-98.238,"1086a514-db4f-4eb9-9551-2cbd65db7c1c",NA
