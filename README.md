@@ -19,4 +19,4 @@ You can use Linux's built-in task scheduler [Cron](http://man7.org/linux/man-pag
 ## TODOs
 
 - [ ] Research peer programs to ECO/EEE, decide whether to include them in this analysis
-- [ ] Sync documents to S3 from local machine
+- [ ] Sync documents to S3 from local machine. See [data-s3](https://github.com/russellgoldenberg/data-s3)
