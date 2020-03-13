@@ -1,4 +1,4 @@
-**Where does Columbia Visits You visit?**
+**Where does the Columbia Undergraduate Admissions Office visit through the Columbia Visits You program?** (limitation: general admissions events, not all high school visits)
 
 ## Setup
 
